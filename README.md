@@ -32,4 +32,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Hamad Ashraf](link to your profile or contact information)
+[Hamad Ashraf](https://github.com/h-ashraf)
